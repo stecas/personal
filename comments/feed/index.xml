@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="https://github.com/stecas/personal/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/stecas/personal/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 11 Aug 2024 15:45:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
