@@ -9,8 +9,8 @@
 
 <channel>
 	<title></title>
-	<atom:link href="https://stecas.github.io/personal/feed/" rel="self" type="application/rss+xml" />
-	<link>https://stecas.github.io/personal/</link>
+	<atom:link href="https://stecas.github.io/personal/personal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stecas.github.io/personal/personal/</link>
 	<description></description>
 	<lastBuildDate>Sun, 11 Aug 2024 15:45:03 +0000</lastBuildDate>
 	<language>en-US</language>
