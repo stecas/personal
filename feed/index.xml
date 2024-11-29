@@ -12,12 +12,12 @@
 	<atom:link href="https://stecas.github.io/personal/feed/" rel="self" type="application/rss+xml" />
 	<link>https://stecas.github.io/personal/</link>
 	<description></description>
-	<lastBuildDate>Sun, 11 Aug 2024 15:45:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Nov 2024 14:51:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>
